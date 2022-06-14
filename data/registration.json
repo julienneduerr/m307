@@ -1,0 +1,42 @@
+[
+  {
+    "id": "d46af78d-e655-4dd8-88b3-faf8b6f3b827",
+    "username": "julie01",
+    "firstname": "Julienne",
+    "lastname": "Duerr",
+    "email": "duerrj@bzz.ch",
+    "password": "password123",
+    "phone": "0796490945",
+    "age": "18"
+  },
+  {
+    "id": "7b8338dd-0cd5-48c7-9abb-dde59e8469db",
+    "username": "duerj",
+    "firstname": "julie",
+    "lastname": "duerr",
+    "email": "duerr@jbzz.ch",
+    "password": "password123",
+    "phone": "0796490945",
+    "age": "43"
+  },
+  {
+    "id": "4dcb6aeb-69d1-413e-984b-cfe7774d553b",
+    "username": "duerj",
+    "firstname": "julie",
+    "lastname": "duerr",
+    "email": "duerr@jbzz.ch",
+    "password": "password123",
+    "phone": "0796490945",
+    "age": "43"
+  },
+  {
+    "id": "d567b0ea-70ee-4afd-a7d4-dbeb53cdf1c5",
+    "username": "thomi",
+    "firstname": "duerr",
+    "lastname": "duerr",
+    "email": "tomi@jbzz.ch",
+    "password": "password123",
+    "phone": "0796490945",
+    "age": "18"
+  }
+]
